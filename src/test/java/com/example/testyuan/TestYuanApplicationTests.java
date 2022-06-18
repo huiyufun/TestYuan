@@ -1,0 +1,13 @@
+package com.example.testyuan;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TestYuanApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
